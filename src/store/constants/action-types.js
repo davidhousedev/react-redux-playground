@@ -1,0 +1,6 @@
+export const counterActions = {
+  INCREMENT: 'INCREMENT',
+  DECREMENT: 'DECREMENT',
+  ADD_COUNTER: 'ADD_COUNTER',
+  REMOVE_COUNTER: 'REMOVE_COUNTER',
+};
